@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Lovely_Kitty",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Lovely_Kitty",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
+    "ip": "FriendsGamePlay.aternos.me",
     "port": 29195,
-    "version": "1.21.1"
+    "version": "1.21"
   },
   "position": {
     "enabled": true,
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "Khadiza"
     },
     "anti-afk": {
       "enabled": true,
@@ -82,7 +82,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true,
     }
   },
   "chat": {
